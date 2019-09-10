@@ -1,0 +1,90 @@
+---
+title: "Papers"
+output:
+  prettydoc::html_pretty:
+    highlight: github
+    theme: cayman
+  html_document:
+    df_print: paged
+date: "08/13/2019"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+To view any file, after the link takes you to Github, click the "Download" button or the "Raw" button at the bottom of the page. 
+
+### Accepted for Publication
+
+Magnuson, D. (in press). “I feel like I’ve really grown up:” The experience of emerging adulthood among street-involved youth. Oxford University Press.
+
+<a href="https://github.com/magnuson8/Doug_web_site/blob/master/book_street_youth/Table_of_Contents.docx">Table of Contents</a>
+
+<a href="https://github.com/magnuson8/Doug_web_site/blob/master/book_street_youth/Intro_July_2019.docx">Introduction</a>
+
+<a href="https://github.com/magnuson8/Doug_web_site/blob/master/book_street_youth/ch2_RB_Study.docx">Chapter Two. Pathways into and out of Street-Involvement: The Risky Business Study </a>
+
+<a href="https://github.com/magnuson8/Doug_web_site/blob/master/book_street_youth/Table%202.1.docx">Table 2.1</a>
+
+<a href="https://github.com/magnuson8/Doug_web_site/blob/master/book_street_youth/Table%202.2.docx">Table 2.2</a>
+
+<a href="https://github.com/magnuson8/Doug_web_site/blob/master/book_street_youth/Table2_3.docx">Table 2.3</a>
+
+<a href="https://github.com/magnuson8/Doug_web_site/blob/master/book_street_youth/Table2_4.docx">Table 2.4</a>
+
+<a href="https://github.com/magnuson8/Doug_web_site/blob/master/book_street_youth/Figure2_1.docx">Figure 2.1</a>
+
+<a href="https://github.com/magnuson8/Doug_web_site/blob/master/book_street_youth/Figure2_1_key.docx">Figure 2.1 Key</a>
+
+
+<a href="https://github.com/magnuson8/Doug_web_site/blob/master/book_street_youth/ch3_instability_final.docx">Chapter Three. The Contribution and Complications of Instability in the Lives of Street-Involved Youth</a>
+
+<a href="https://github.com/magnuson8/Doug_web_site/blob/master/book_street_youth/table3_1.docx">Table 3.1</a>
+
+
+<a href="https://github.com/magnuson8/Doug_web_site/blob/master/book_street_youth/ch4_leaving_home_final.docx">Chapter Four. Self-Focus: Leaving Home and Becoming Street-Involved</a>
+
+<a href="https://github.com/magnuson8/Doug_web_site/blob/master/book_street_youth/ch5_self_focus_final.docx">Chapter Five. Self-Focus: The Early Months and Years of Street-Involvement</a>
+
+<a href="https://github.com/magnuson8/Doug_web_site/blob/master/book_street_youth/ch6_possibiities_final.docx">Chapter Six. Possibilities: Anticipating the Future</a>
+
+<a href="https://github.com/magnuson8/Doug_web_site/blob/master/book_street_youth/ch7_inbetween_ final.docx">Chapter Seven. >NFA (No fixed address): Feeling—and Being—In-Between</a>
+
+<a href="https://github.com/magnuson8/Doug_web_site/blob/master/book_street_youth/ch8_identity_final.docx">Chapter Eight. Identity: “Not Being Who I Want To Be.”</a>
+
+<a href="https://github.com/magnuson8/Doug_web_site/blob/master/book_street_youth/ch9_policy_final.docx">Summary:  The Implications for Policy of Street-Involved Lives
+</a>
+
+<a href="https://github.com/magnuson8/Doug_web_site/blob/master/book_street_youth/Table9_1_final.docx">Table 9.1</a>
+
+<a href="https://github.com/magnuson8/Doug_web_site/blob/master/book_street_youth/table9_2_final.docx">Table 9.2</a>
+
+<a href="https://github.com/magnuson8/Doug_web_site/blob/master/book_street_youth/table9_3_final.docx">Table 9.3</a>
+
+<a href="https://github.com/magnuson8/Doug_web_site/blob/master/book_street_youth/table9_4_final.docx">Table 9.4</a>
+
+
+### Submitted for Publication
+
+Benoit, C., et al, including Magnuson, D. (submitted). The relative quality of sex work. *Work, Employment, and Society.*
+
+Modlin, H., & Magnuson, D. (submitted). Satisfaction, challenge, and coping with the demands of the work: A constructive-developmental study of group care workers. *Child & Youth Care Forum.*
+
+<a href="https://github.com/magnuson8/Doug_web_site/blob/master/pubs/modlin_manuscript.docx">Modlin & Magnuson</a>
+
+Snell, H., McGrath, J., Pauls, M., Magnuson, D. (submitted). What is the purpose of fieldwork in higher education? The example of Canadian child & youth care. *Professional Development in Education.* 
+
+<a href="https://github.com/magnuson8/Doug_web_site/blob/master/pubs/Prof_development.pdf">Professional Development</a>
+
+### In Preparation 
+
+Magnuson, D., Healey, P., Jansson, M., & Benoit, C. Is there a causal relationship between substance use and sex work? 
+
+<a href="https://github.com/magnuson8/Doug_web_site_promotion/blob/master/pubs/2019-09-09_p2_substances.docx">Substance Use and Sex Work</a>
+
+
+Harper, N., Magnuson, D. & Dubid, W. A closer look at involuntary treatment, transport and the conception of ‘effectiveness’ in adolescent wilderness therapy. 
+
+<a href="https://github.com/magnuson8/Doug_web_site/blob/master/pubs/Involuntary WT_AUG_26.docx">Involuntary</a>
+
